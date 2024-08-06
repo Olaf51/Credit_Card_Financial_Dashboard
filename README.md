@@ -1,21 +1,25 @@
-#Credit card financial dashboard using Power BI:
+##Credit card financial dashboard using Power BI:
 
-• Developed an interactive dashboard using 
-transaction and customer data from a SQL database, 
-to provide real-time insights. 
+->Developed an interactive dashboard with Power BI using SQL data to provide real-time insights into credit card transactions and customer behavior.
 
-• Streamlined data processing & analysis to monitor 
-key performance metrics and trends.
+->Streamlined data processing by integrating and analyzing transaction and customer data, enabling efficient monitoring of key performance metrics.
 
-• Shared actionable insights with stakeholders based 
-on dashboard findings to support decision-making 
-processes.
+->Monitored key metrics such as a 28.8% revenue increase, total transaction amount, and customer counts to track financial performance.
+
+->Delivered actionable insights to stakeholders based on dashboard findings, supporting strategic decision-making and business growth.
+
+->Highlighted significant trends with data, including 57M YTD revenue and notable contributions from Blue & Silver cards.
+
+->Visualized data using Power BI to present key metrics such as revenue breakdown by gender and geographic distribution of transactions.
+
+->Analyzed customer contributions with data showing that male customers generated 31M in revenue compared to 26M from females.
+
+->Provided comprehensive metrics on card usage, including activation rate (57.5%) and delinquent rate (6.06%), to assess overall card performance.
 
 
 
 
-
-#WoW change: 
+##WoW change: 
 
 • Revenue increased by 28.8%, 
 
@@ -23,7 +27,7 @@ processes.
 
 • Customer count increased by xx%
 
-#Overview YTD:
+##Overview YTD:
 
 • Overall revenue is 57M
 
